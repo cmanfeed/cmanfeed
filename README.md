@@ -4,6 +4,8 @@ Sou universitário de **Ciência da Computação** pela Universidade Federal do 
 
 Desenvolvi várias pesquisas científicas na universidade nas áreas de Visão Computacional, Machine Learning e Processamento de Imagens. Entretanto, após estudar de maneira mais aprofundada Desenvolvimento Web criei muita afinidade com a área. ✨😍
 
+> "All those moments will be lost in time, like tears in rain..." - Roy Batty
+
 Também sou músico e compositor. Quem sabe um dia sai uma arte no Spotify...
 
 ### Tecnologias conhecidas 💻
