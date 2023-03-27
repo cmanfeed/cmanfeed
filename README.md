@@ -1,8 +1,8 @@
 ### Olá, Meu nome é Caio Manfredini! ✌️
 
-Sou universitário de **Ciência da Computação** pela Universidade Federal do Maranhão e estudante de **Desenvolvimento Full-Stack** pela Blue EdTech. Moro em São Luís do Maranhão.
+Sou bacharel em **Ciência da Computação** pela Universidade Federal do Maranhão. Moro em São Luís do Maranhão.
 
-Desenvolvi várias pesquisas científicas na universidade nas áreas de Visão Computacional, Machine Learning e Processamento de Imagens. Entretanto, após estudar de maneira mais aprofundada Desenvolvimento Web criei muita afinidade com a área. 🤓
+Desenvolvi várias pesquisas científicas na universidade nas áreas de Visão Computacional, Machine Learning e Processamento de Imagens. 
 
 Também sou músico e compositor. ~~Quem sabe um dia sai uma arte no Spotify...~~
 
